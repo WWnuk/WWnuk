@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**WWnuk/WWnuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Wawrzyniec! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+I'm a System Administrator who tries to learn Python programming. In my repositories you can find a few demo programs that I created. Some make more sense, some make less but during the development of each, I developed myself a lot!
+
+## 🛠 Skills
+Python - this profile is all about it
+
+Powershell - I use it in my daily work
+
+Bash - I use it in my daily work but not as much as powershell
+
+
